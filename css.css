@@ -1,14 +1,47 @@
 *{
-	font-family: 'Gaegu', cursive;
+	font-family: 'Chela One', cursive;
 }
 h1{
 	text-align: center;
 }
 
 h3,h4{
-	font-size: 12px
+	font-size: 25px;
+	text-align: center;
 }
 .headers3{
-	font-size: 12px;
+	font-size: 18px;
 	color:blue;
+}
+p{
+	 font-size: 19px;
+	 line-height:5;
+}
+h3,h4{
+	text-transform: uppercase;
+}
+body{
+	background:rgb();
+}
+.mee1{
+	white-space: nowrap;
+	width: 200px;
+	border: 1px solid #000000
+
+}
+ul li{
+	font-style: italic;
+	color: tomato;
+}
+h1:hover{
+	color: red;
+}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+h1{
+	text-shadow: 5px 5px yellow;
 }
