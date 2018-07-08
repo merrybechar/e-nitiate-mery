@@ -1,0 +1,37 @@
+h1{
+	font-family: 'Coda Caption', sans-serif;
+	font-size: 55px;
+	color: white;
+}
+
+.class{
+	color: red;
+}
+body{
+	background-image: url('./image1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover; 
+	text-align: center;
+}
+div{
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 100px;
+	border: 2px solid black;
+}
+h2{
+	font-size: 40px
+	color:tomato ;
+}
+.hoo{
+	 margin: 25px 50px 75px 100px;
+	 border:  1px solid black;
+}
+html,body{
+	height: 100%;
+}
+p{
+	color: white;
+	margin: 50px;
+	margin-top: 100px;
+}
